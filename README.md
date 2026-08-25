@@ -80,12 +80,6 @@ My core engineering interests include:
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgresql&theme=dark" />
 </p>
 
-### Cloud, DevOps & Tooling
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker,linux,vscode,postman,vercel&theme=dark" />
-</p>
-
 ---
 
 ## AI / ML Expertise
@@ -219,66 +213,48 @@ An AI-assisted accessibility system designed to help visually impaired users und
 - Edge AI processing
 - Accessibility-focused product design
 
-**Engineering Focus:** Computer Vision · Edge AI · Accessibility · OpenCV · YOLO
+**Engineering Focus:**  · Accessibility · OpenCV · YOLO
 
 </details>
 
 ---
 
-## Experience
+#### Experience
 
-### Software Development Intern — Koushika Krishna Consultancy
+### Web Development Intern — Purlpulane
 
-**2026**
+**Web Developer Intern**
 
-Contributed to software development initiatives with a focus on building practical web applications and strengthening full-stack engineering capabilities.
-
-**Scope of Work**
-
-- Developed and refined web application components
-- Worked with frontend and backend technologies
-- Implemented application features based on functional requirements
-- Practiced API integration and application debugging
-- Improved understanding of real-world software development workflows
-
-**Skills:** `Web Development` `JavaScript` `Frontend` `Backend` `APIs` `Git` `Problem Solving`
-
----
-
-### AI Engineering Intern — Vyoman AI Solutions
-
-**2026**
-
-Worked in an AI-focused engineering environment, gaining practical exposure to intelligent software systems and AI-powered product development.
+Worked as a Web Development Intern, contributing to the development of responsive and user-friendly web applications.
 
 **Scope of Work**
 
-- Explored AI-driven application development
-- Worked with modern AI concepts and engineering workflows
-- Contributed to practical technology solutions
-- Strengthened understanding of AI product integration
-- Collaborated in a professional development environment
+- Developed and implemented web applications based on project requirements.
+- Built responsive and interactive frontend interfaces.
+- Integrated frontend components with backend services and APIs.
+- Debugged application issues and improved application functionality.
+- Collaborated with team members throughout the software development lifecycle.
 
-**Skills:** `Artificial Intelligence` `Generative AI` `Software Engineering` `Problem Solving` `Product Development`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| 🥇 **Hackathon Recognition** | Secured **2nd Prize** in the Smart Engineering category at ANVESHANA 2026 |
-| 🥉 **Hackathon Recognition** | Secured **3rd Prize** at ANVESHANA 2026 National Level Hackathon |
-| 🏆 **Technical Achievement** | Secured **2nd Prize** in Technical Quiz at ANVESHANA 2026 |
-| ⭐ **Competitive Programming** | Reached **5-Star rating on CodeChef** |
-| 🚀 **Hackathon Participation** | Participated in national-level and 24-hour engineering hackathons |
-| 🤖 **AI Engineering** | Built projects integrating Generative AI, RAG and intelligent automation |
-
-</div>
+**Skills:** `HTML` `CSS` `JavaScript` `Web Development` `Frontend Development` `APIs` `Git`
 
 ---
+
+### Deep Learning Intern — AIMERS
+
+**Deep Learning Intern**
+
+Worked as a Deep Learning Intern, focusing on computer vision and real-time object detection using **YOLO**.
+
+**Scope of Work**
+
+- Developed an object detection system using **YOLO (You Only Look Once)**.
+- Prepared and processed image datasets for model training.
+- Trained and evaluated the object detection model.
+- Implemented real-time object detection using computer vision techniques.
+- Analyzed model performance and improved detection accuracy.
+- Applied deep learning concepts to image recognition and object detection.
+
+**Skills:** `Python` `Deep Learning` `YOLO` `Computer Vision` `Object Detection` `OpenCV` `Machine Learning`
 
 ## Certifications
 
